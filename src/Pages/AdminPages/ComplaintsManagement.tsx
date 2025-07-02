@@ -1,4 +1,4 @@
-import React, { useEffect, useState, type FC } from "react";
+import  { useEffect, useState, type FC } from "react";
 import ChatList from "../../components/common/AdminCommon/ComplaintsManagement/ChatList";
 import ChatWindow from "../../components/common/AdminCommon/ComplaintsManagement/ChatWindow";
 import { useDispatch, useSelector } from "react-redux";
@@ -13,7 +13,7 @@ export const ComplaintsManagement: FC = () => {
   const [selectedUserId, setSelectedUserId] = useState("1");
 
   const dispatch = useDispatch<AppDispatch>();
-  const { data, loading, error } = useSelector(
+  const {  loading, error } = useSelector(
     (state: RootState) => state.complaints
   );
 

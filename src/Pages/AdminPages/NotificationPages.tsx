@@ -1,4 +1,4 @@
-import React from "react";
+
 import { FaPlus } from "react-icons/fa";
 import NotificationTable from "../../components/common/AdminCommon/NotificationTable/NotificationTable";
 

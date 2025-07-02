@@ -4,7 +4,7 @@ import { Link } from "react-router";
 import { useSidebar } from "../../context/admin/SidebarContext";
 import { ThemeToggleButton } from "../../components/common/AdminCommon/ThemeToggleButton";
 import NotificationDropdown from "../../components/common/AdminCommon/NotificationDropdown";
-import UserDropdown from "../../components/common/AdminCommon/UserDropdown";
+
 
 const AppHeader: React.FC = () => {
   const [isApplicationMenuOpen, setApplicationMenuOpen] = useState(false);

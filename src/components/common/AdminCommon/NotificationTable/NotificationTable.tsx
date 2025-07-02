@@ -1,4 +1,4 @@
-import React from "react";
+
 import NotificationTableRow from "./NotificationTableRow";
 
 const notifications = [

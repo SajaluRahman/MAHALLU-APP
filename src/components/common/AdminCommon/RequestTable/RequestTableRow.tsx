@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import  { useState } from "react";
 import { FaEye } from "react-icons/fa";
 import { Modal } from "../../../ui/Modal/index";
 import { Calendar, User } from "lucide-react";

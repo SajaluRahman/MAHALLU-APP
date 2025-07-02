@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import  { useEffect, useState } from "react";
 import { FaSearch } from "react-icons/fa";
 import UserTable from "../../components/common/AdminCommon/UserManagment/AllUsers/AllUserTable";
 import { collection, getDocs } from "firebase/firestore";

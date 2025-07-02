@@ -1,4 +1,4 @@
-import React from "react";
+
 
 const StatisticsCard: React.FC = () => (
   <div className="bg-white dark:bg-gray-900 rounded-lg shadow-md p-6 mt-10 max-w-xl mx-auto border dark:border-gray-800 transition duration-300 hover:shadow-lg hover:border-emerald-500 dark:hover:border-emerald-400">

@@ -1,6 +1,4 @@
 
-// UserListItem.tsx
-import React from "react";
 import chatimg from "../../../../assets/images/avathar.png";
 
 export type User = {

@@ -1,4 +1,4 @@
-import React from "react";
+
 
 const QuickStats: React.FC = () => (
   <div className="bg-white dark:bg-gray-800 rounded-lg p-6 shadow-md transition-colors duration-300">

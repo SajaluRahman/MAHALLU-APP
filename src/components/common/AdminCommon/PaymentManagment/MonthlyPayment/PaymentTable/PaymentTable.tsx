@@ -1,4 +1,4 @@
-import React from "react";
+
 import { FaPlus, FaEye, FaEdit, FaTrash } from "react-icons/fa";
 
 type Payment = {

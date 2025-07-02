@@ -1,4 +1,4 @@
-import React from "react";
+
 import imageurl from "../../../../../assets/images/pexels-justin-shaifer-501272-1222271.jpg";
 interface PaidUserCardProps {
   name: string;

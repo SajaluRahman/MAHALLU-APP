@@ -1,4 +1,4 @@
-import React from "react";
+
 import { FaEye, FaEdit, FaTrash } from "react-icons/fa";
 
 interface NotificationTableRowProps {

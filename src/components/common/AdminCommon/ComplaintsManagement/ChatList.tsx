@@ -1,5 +1,4 @@
-// ChatList.tsx
-import React from "react";
+
 import UserListItem from "./UserListItem";
 import SortingDropdown from "./SortingDropdown";
 import { useSelector } from "react-redux";
